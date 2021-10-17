@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+StealthGame/Binaries/*
+
+StealthGame/Intermediate/*
+**StealthGame/Saved/*
+!**StealthGame/Saved/Config
+StealthGame/DerivedDataCache/DDC.ddp
